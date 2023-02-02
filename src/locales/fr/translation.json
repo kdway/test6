@@ -1,0 +1,6 @@
+{
+    "name": "Nom",
+    "manish": "Aux fins du didacticiel, nous nous concentrerons uniquement sur deux langues. Un anglais et un autre hindi. Alors maintenant, créez un répertoire locales dans le répertoire src. Ici, nous conserverons nos fichiers de traduction au format JSON. Ainsi, après avoir créé le répertoire, créez les répertoires en et hn dans le répertoire locales, puis créez le fichier translation.json dans chaque répertoire."
+  }
+
+

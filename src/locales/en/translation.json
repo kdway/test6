@@ -1,0 +1,5 @@
+{
+    "name": "Name",
+    "manish": "Now if you run your project you will see that the value of the manish variable from the translation.json file is getting displayed on the screen as Manish. Our default language is en that’s why it’s taking English translation. If you want to see changes or change your default language change the lang value from the i18n.js file from en to hn."
+  }
+
